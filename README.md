@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/leetforces" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="leetforces" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codprac" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="codprac" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCZwL4aYV_9U5ckD8GwuQXSg" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="codprac" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/leetforces" target="blank"><img align="center" src="https://storage.googleapis.com/kaggle-datasets-images/445/913/949f040bfb8ac14b4271103795b31797/dataset-card.png" alt="leetforces" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/leetforces" target="blank"><img align="center" src="https://1.bp.blogspot.com/-8skaizO2B04/Wnw6rqD8qlI/AAAAAAAABRA/dXqVYGqjZ2Eeeo3SV-A_9cGMtgQ7LhomwCPcBGAYYCw/s1600/codeforce.png" alt="leetforces" height="30" width="40" /></a>
 </p>
